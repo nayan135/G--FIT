@@ -40,12 +40,12 @@ const developers = [
     email: "shasank.shrestha@gmail.com",
   },
   {
-    name: "Rabin Chudali",
+    name: "Prazwal Roka",
     role: "UI Designer",
-    image: "https://iili.io/3RprAo7.webp",
-    github: "https://github.com/TechnophileCracker",
-    linkedin: "https://linkedin.com/in/rabin-chudali",
-    email: "mailto: chudalirabin@proton.me",
+    image: "https://iili.io/3dMWeDP.jpg",
+    github: "https://github.com/prazwal30",
+    linkedin: "https://linkedin.com/in/prazwal-roka",
+    email: "mailto: prazwalroka@gmail.com",
   },
 ]
 
